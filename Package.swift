@@ -2,10 +2,7 @@
 import PackageDescription
 
 let package = Package(
-    name: "MyLibrary",
-    platforms: [
-        /*.macOS(.v10_14), */.iOS(.v12)/*, .tvOS(.v13)*/
-    ],
+    name: "FFmpegKit",
     products: [
         // Products define the executables and libraries a package produces, and make them visible to other packages.
         .library(
