@@ -68,191 +68,191 @@ let package = Package(
         //),
         .binaryTarget(
             name: "dav1d",
-            path: "ffmpeg-kit-full-4.4-ios-xcframework/dav1d.xcframework"
+            path: "dav1d.xcframework"
         ),
         .binaryTarget(
             name: "expat",
-            path: "ffmpeg-kit-full-4.4-ios-xcframework/expat.xcframework"
+            path: "expat.xcframework"
         ),
         .binaryTarget(
             name: "ffmpegkit",
-            path: "ffmpeg-kit-full-4.4-ios-xcframework/ffmpegkit.xcframework"
+            path: "ffmpegkit.xcframework"
         ),
         .binaryTarget(
             name: "fontconfig",
-            path: "ffmpeg-kit-full-4.4-ios-xcframework/fontconfig.xcframework"
+            path: "fontconfig.xcframework"
         ),
         .binaryTarget(
             name: "freetype",
-            path: "ffmpeg-kit-full-4.4-ios-xcframework/freetype.xcframework"
+            path: "freetype.xcframework"
         ),
         .binaryTarget(
             name: "fribidi",
-            path: "ffmpeg-kit-full-4.4-ios-xcframework/fribidi.xcframework"
+            path: "fribidi.xcframework"
         ),
         .binaryTarget(
             name: "giflib",
-            path: "ffmpeg-kit-full-4.4-ios-xcframework/giflib.xcframework"
+            path: "giflib.xcframework"
         ),
         .binaryTarget(
             name: "gmp",
-            path: "ffmpeg-kit-full-4.4-ios-xcframework/gmp.xcframework"
+            path: "gmp.xcframework"
         ),
         .binaryTarget(
             name: "gnutls",
-            path: "ffmpeg-kit-full-4.4-ios-xcframework/gnutls.xcframework"
+            path: "gnutls.xcframework"
         ),
         .binaryTarget(
             name: "harfbuzz",
-            path: "ffmpeg-kit-full-4.4-ios-xcframework/harfbuzz.xcframework"
+            path: "harfbuzz.xcframework"
         ),
         .binaryTarget(
             name: "jpeg",
-            path: "ffmpeg-kit-full-4.4-ios-xcframework/jpeg.xcframework"
+            path: "jpeg.xcframework"
         ),
         .binaryTarget(
             name: "kvazaar",
-            path: "ffmpeg-kit-full-4.4-ios-xcframework/kvazaar.xcframework"
+            path: "kvazaar.xcframework"
         ),
         .binaryTarget(
             name: "lame",
-            path: "ffmpeg-kit-full-4.4-ios-xcframework/lame.xcframework"
+            path: "lame.xcframework"
         ),
         .binaryTarget(
             name: "libass",
-            path: "ffmpeg-kit-full-4.4-ios-xcframework/libass.xcframework"
+            path: "libass.xcframework"
         ),
         .binaryTarget(
             name: "libavcodec",
-            path: "ffmpeg-kit-full-4.4-ios-xcframework/libavcodec.xcframework"
+            path: "libavcodec.xcframework"
         ),
         .binaryTarget(
             name: "libavdevice",
-            path: "ffmpeg-kit-full-4.4-ios-xcframework/libavdevice.xcframework"
+            path: "libavdevice.xcframework"
         ),
         .binaryTarget(
             name: "libavfilter",
-            path: "ffmpeg-kit-full-4.4-ios-xcframework/libavfilter.xcframework"
+            path: "libavfilter.xcframework"
         ),
         .binaryTarget(
             name: "libavformat",
-            path: "ffmpeg-kit-full-4.4-ios-xcframework/libavformat.xcframework"
+            path: "libavformat.xcframework"
         ),
         .binaryTarget(
             name: "libavutil",
-            path: "ffmpeg-kit-full-4.4-ios-xcframework/libavutil.xcframework"
+            path: "libavutil.xcframework"
         ),
         .binaryTarget(
             name: "libhogweed",
-            path: "ffmpeg-kit-full-4.4-ios-xcframework/libhogweed.xcframework"
+            path: "libhogweed.xcframework"
         ),
         .binaryTarget(
             name: "libilbc",
-            path: "ffmpeg-kit-full-4.4-ios-xcframework/libilbc.xcframework"
+            path: "libilbc.xcframework"
         ),
         .binaryTarget(
             name: "libnettle",
-            path: "ffmpeg-kit-full-4.4-ios-xcframework/libnettle.xcframework"
+            path: "libnettle.xcframework"
         ),
         .binaryTarget(
             name: "libogg",
-            path: "ffmpeg-kit-full-4.4-ios-xcframework/libogg.xcframework"
+            path: "libogg.xcframework"
         ),
         .binaryTarget(
             name: "libopencore-amrnb",
-            path: "ffmpeg-kit-full-4.4-ios-xcframework/libopencore-amrnb.xcframework"
+            path: "libopencore-amrnb.xcframework"
         ),
         .binaryTarget(
             name: "libpng",
-            path: "ffmpeg-kit-full-4.4-ios-xcframework/libpng.xcframework"
+            path: "libpng.xcframework"
         ),
         .binaryTarget(
             name: "libsndfile",
-            path: "ffmpeg-kit-full-4.4-ios-xcframework/libsndfile.xcframework"
+            path: "libsndfile.xcframework"
         ),
         .binaryTarget(
             name: "libswresample",
-            path: "ffmpeg-kit-full-4.4-ios-xcframework/libswresample.xcframework"
+            path: "libswresample.xcframework"
         ),
         .binaryTarget(
             name: "libswscale",
-            path: "ffmpeg-kit-full-4.4-ios-xcframework/libswscale.xcframework"
+            path: "libswscale.xcframework"
         ),
         .binaryTarget(
             name: "libtheora",
-            path: "ffmpeg-kit-full-4.4-ios-xcframework/libtheora.xcframework"
+            path: "libtheora.xcframework"
         ),
         .binaryTarget(
             name: "libtheoradec",
-            path: "ffmpeg-kit-full-4.4-ios-xcframework/libtheoradec.xcframework"
+            path: "libtheoradec.xcframework"
         ),
         .binaryTarget(
             name: "libtheoraenc",
-            path: "ffmpeg-kit-full-4.4-ios-xcframework/libtheoraenc.xcframework"
+            path: "libtheoraenc.xcframework"
         ),
         .binaryTarget(
             name: "libvorbis",
-            path: "ffmpeg-kit-full-4.4-ios-xcframework/libvorbis.xcframework"
+            path: "libvorbis.xcframework"
         ),
         .binaryTarget(
             name: "libvorbisenc",
-            path: "ffmpeg-kit-full-4.4-ios-xcframework/libvorbisenc.xcframework"
+            path: "libvorbisenc.xcframework"
         ),
         .binaryTarget(
             name: "libvorbisfile",
-            path: "ffmpeg-kit-full-4.4-ios-xcframework/libvorbisfile.xcframework"
+            path: "libvorbisfile.xcframework"
         ),
         .binaryTarget(
             name: "libvpx",
-            path: "ffmpeg-kit-full-4.4-ios-xcframework/libvpx.xcframework"
+            path: "libvpx.xcframework"
         ),
         .binaryTarget(
             name: "libwebp",
-            path: "ffmpeg-kit-full-4.4-ios-xcframework/libwebp.xcframework"
+            path: "libwebp.xcframework"
         ),
         .binaryTarget(
             name: "libwebpdemux",
-            path: "ffmpeg-kit-full-4.4-ios-xcframework/libwebpdemux.xcframework"
+            path: "libwebpdemux.xcframework"
         ),
         .binaryTarget(
             name: "libwebpmux",
-            path: "ffmpeg-kit-full-4.4-ios-xcframework/libwebpmux.xcframework"
+            path: "libwebpmux.xcframework"
         ),
         .binaryTarget(
             name: "libxml2",
-            path: "ffmpeg-kit-full-4.4-ios-xcframework/libxml2.xcframework"
+            path: "libxml2.xcframework"
         ),
         .binaryTarget(
             name: "opus",
-            path: "ffmpeg-kit-full-4.4-ios-xcframework/opus.xcframework"
+            path: "opus.xcframework"
         ),
         .binaryTarget(
             name: "shine",
-            path: "ffmpeg-kit-full-4.4-ios-xcframework/shine.xcframework"
+            path: "shine.xcframework"
         ),
         .binaryTarget(
             name: "snappy",
-            path: "ffmpeg-kit-full-4.4-ios-xcframework/snappy.xcframework"
+            path: "snappy.xcframework"
         ),
         .binaryTarget(
             name: "soxr",
-            path: "ffmpeg-kit-full-4.4-ios-xcframework/soxr.xcframework"
+            path: "soxr.xcframework"
         ),
         .binaryTarget(
             name: "speex",
-            path: "ffmpeg-kit-full-4.4-ios-xcframework/speex.xcframework"
+            path: "speex.xcframework"
         ),
         .binaryTarget(
             name: "tiff",
-            path: "ffmpeg-kit-full-4.4-ios-xcframework/tiff.xcframework"
+            path: "tiff.xcframework"
         ),
         .binaryTarget(
             name: "twolame",
-            path: "ffmpeg-kit-full-4.4-ios-xcframework/twolame.xcframework"
+            path: "twolame.xcframework"
         ),
         .binaryTarget(
             name: "vo-amrwbenc",
-            path: "ffmpeg-kit-full-4.4-ios-xcframework/vo-amrwbenc.xcframework"
+            path: "vo-amrwbenc.xcframework"
         )
         //.binaryTarget(
         //    name: "SomeLocalBinaryPackage",
